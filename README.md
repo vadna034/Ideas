@@ -10,3 +10,9 @@ Develop an app to allow students at the university of minnesota to network and e
 
 ## Algorithm Visualizers
 Graph algorithms are always cool to see. I should familiarize myself on other stuff and see if there are any that might be cool to create more concrete visualizations of. 
+
+## Hike Planner
+Organization of trails across the United states. Add in weather capabilities for best days, distance of travel, time to hike, etc. Would be cool as I really enjoy planning trips.
+
+## Online Journal
+Simple Journal that's online. Allows you to write when you don't have a pen and paper on you. (An issue that I face when journaling is that I forget to bring it or misplace it.) Having this at a dedicated URL might be very useful for me. 
